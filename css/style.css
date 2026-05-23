@@ -1,0 +1,72 @@
+.logo1 {
+   vertical-align: middle;
+   padding: 0 10px 0 60px;
+}
+.meniu-item {
+    display: inline-block;
+    margin: 30px;
+    font-family: "ALK Life-font";
+}
+.container {
+  width: 1400px;
+  margin: 0 auto;
+}
+.section-background {
+  background-color: #f9f8f8;
+  padding-top: 35px;
+}
+.title-block {
+  color: #7eb693;
+  font-family: "Yellowtail", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+  padding-left: 150px;
+}
+
+.navigation {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 16px 8px 16px 8px;
+    margin-left: 50px;
+}
+
+
+.right-container {
+  width: 450px;
+}
+.image-el {
+  width: 100%;
+  display: block;
+}
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+ body {
+    overflow: hidden;
+ }
+.left-container {
+  width: 520px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+.roboto {
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  line-height: 50px;
+  margin-bottom: 20px;
+}
+.paragraph {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 18px;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
